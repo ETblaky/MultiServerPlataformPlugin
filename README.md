@@ -3,7 +3,7 @@ A plugin that works with Bukkit and Sponge in a single file, without have to cod
 
 #### Feel free to help pulling requests. :)
 
-- Events:
+##### Events:
 - [X] ServerInitEvent
 - [ ] ServerDisableEvent
 - [X] EntityDamageEntityEvent
@@ -14,6 +14,6 @@ A plugin that works with Bukkit and Sponge in a single file, without have to cod
 - [ ] openInventoryEvent
 - [ ] closeInventoryEvent
 
-- Others:
+##### Others:
 - [ ] Schedulers
 - [ ] Config Files
