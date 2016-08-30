@@ -1,0 +1,3 @@
+name: MultiServerPlugin
+main: me.etblaky.msPl.Spigot.MainSpigot
+version: 0.1-SNAPSHOT
